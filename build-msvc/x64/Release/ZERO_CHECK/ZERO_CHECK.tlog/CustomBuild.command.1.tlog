@@ -1,0 +1,10 @@
+^D:\ACADEMIC\CSE323\OPTIMIZED BACKUP SYSTEM\BUILD-MSVC\CMAKEFILES\8DE8771072FEF760C7FE39B4072CB00E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Academic/CSE323/Optimized Backup System" "-BD:/Academic/CSE323/Optimized Backup System/build-msvc" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Academic/CSE323/Optimized Backup System/build-msvc/OptimizedBackup.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

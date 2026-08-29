@@ -1,0 +1,5 @@
+D:\Academic\CSE323\Optimized Backup System\src\main.cpp;D:\Academic\CSE323\Optimized Backup System\build-msvc\OptimizedBackup.dir\Release\main.obj
+D:\Academic\CSE323\Optimized Backup System\src\backup\BackupEngine.cpp;D:\Academic\CSE323\Optimized Backup System\build-msvc\OptimizedBackup.dir\Release\BackupEngine.obj
+D:\Academic\CSE323\Optimized Backup System\src\backup\BackupStatistics.cpp;D:\Academic\CSE323\Optimized Backup System\build-msvc\OptimizedBackup.dir\Release\BackupStatistics.obj
+D:\Academic\CSE323\Optimized Backup System\src\backup\UsnJournal.cpp;D:\Academic\CSE323\Optimized Backup System\build-msvc\OptimizedBackup.dir\Release\UsnJournal.obj
+D:\Academic\CSE323\Optimized Backup System\src\filesystem\FileSystemUtils.cpp;D:\Academic\CSE323\Optimized Backup System\build-msvc\OptimizedBackup.dir\Release\FileSystemUtils.obj

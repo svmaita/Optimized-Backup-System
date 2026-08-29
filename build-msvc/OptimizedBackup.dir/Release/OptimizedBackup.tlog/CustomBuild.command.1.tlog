@@ -1,0 +1,10 @@
+^D:\ACADEMIC\CSE323\OPTIMIZED BACKUP SYSTEM\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Academic/CSE323/Optimized Backup System" "-BD:/Academic/CSE323/Optimized Backup System/build-msvc" --check-stamp-file "D:/Academic/CSE323/Optimized Backup System/build-msvc/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
