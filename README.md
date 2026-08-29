@@ -1,4 +1,4 @@
-# Optimized-Backup-System
+# Optimized Backup System
 
 A performance-driven Windows backup tool that thinks before it copies. Built with C++ and Windows APIs, the Optimized Backup System performs full and incremental backups, skips unchanged files using metadata checks, and uses the NTFS USN journal to detect changes efficiently. It blends systems programming, filesystem optimization, and practical engineering into a faster, smarter backup workflow.
 
